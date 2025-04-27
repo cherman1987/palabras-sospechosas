@@ -1,0 +1,9 @@
+{
+  "trusted_apps": [
+    "com.google.android.gms",
+    "com.android.vending",
+    "com.facebook.katana",
+    "com.whatsapp",
+    "com.microsoft.office.word"
+  ]
+}
