@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "com.waze",
     "com.clarodrive.android",
     "com.android.vending",
     "org.telegram.messenger",
