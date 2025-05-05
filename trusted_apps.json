@@ -3,6 +3,7 @@
     "com.google.android.gms",
     "com.waze",
     "com.clarodrive.android",
+    "com.claro.claro-drive",
     "com.android.vending",
     "org.telegram.messenger",
     "com.google.android.apps.maps",
