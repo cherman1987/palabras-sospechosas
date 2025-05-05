@@ -2,6 +2,7 @@
   "trusted_apps": [
     "com.google.android.gms",
     "com.waze",
+    "com.cabify.driver",
     "com.clarodrive.android",
     "com.claro.claro-drive",
     "com.android.vending",
