@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "com.santander.argentina.supermovil",
     "com.waze",
     "com.cabify.driver",
     "com.disney.disneyplus",
