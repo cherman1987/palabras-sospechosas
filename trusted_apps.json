@@ -2,6 +2,7 @@
   "trusted_apps": [
     "com.google.android.gms",
     "com.santander.argentina.supermovil",
+    "com.mercadopago.wallet",
     "com.intsig.camscanner",
     "com.waze",
     "com.cabify.driver",
