@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "com.sec.android.app.sbrowser",
     "com.shazam.android",
     "com.santander.argentina.supermovil",
     "com.mercadopago.wallet",
