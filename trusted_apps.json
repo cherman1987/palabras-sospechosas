@@ -2,6 +2,7 @@
   "trusted_apps": [
     "com.google.android.gms",
     "com.sec.android.app.sbrowser",
+    "com.samsung.gamedriver.S11Adreno650",
     "com.clarodrive.android",
     "com.shazam.android",
     "com.santander.argentina.supermovil",
