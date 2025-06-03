@@ -2,6 +2,7 @@
   "trusted_apps": [
     "com.google.android.gms",
     "com.sec.android.app.sbrowser",
+    "com.ubercab.driver",
     "com.samsung.gamedriver.S11Adreno650",
     "com.clarodrive.android",
     "com.shazam.android",
