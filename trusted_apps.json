@@ -2,6 +2,11 @@
   "trusted_apps": [
     "com.google.android.gms",
     "com.sec.android.app.sbrowser",
+    "com.nexosoluciones.nuevomonumental",
+    "com.opera.max.global",
+    "com.zhiliaoapp.musically",
+    "com.samsung.sree",
+    "com.parkit.selfcare",
     "com.symantec.mobilesecurity",
     "com.ubercab.driver",
     "com.samsung.gamedriver.S11Adreno650",
