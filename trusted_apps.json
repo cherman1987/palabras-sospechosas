@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "com.opera.browser",
     "com.teamviewer.quicksupport.market",
     "com.sec.android.app.shealth",
     "com.carrefour.bancadeserviciosfinancieroscarrefour",
