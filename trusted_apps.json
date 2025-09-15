@@ -1,6 +1,9 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "com.coinex.trade.play",
+    "com.adobe.reader",
+    "com.amazon.avod.thirdpartyclient",
     "com.opera.browser",
     "com.teamviewer.quicksupport.market",
     "com.sec.android.app.shealth",
