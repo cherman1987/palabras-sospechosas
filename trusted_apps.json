@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "cn.wps.moffice_eng",
     "com.coinex.trade.play",
     "com.adobe.reader",
     "com.amazon.avod.thirdpartyclient",
