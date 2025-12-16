@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "steptracker.healthandfitness.walkingtracker.pedometer",
     "com.vialsoft.radarbot_free",
     "com.anydesk.anydeskandroid",
     "com.zzkko",
