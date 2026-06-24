@@ -2,6 +2,8 @@
   "trusted_apps": [
     "com.google.android.gms",
     "steptracker.healthandfitness.walkingtracker.pedometer",
+    "com.bancosantafe.mobile",
+    "com.medicus.mimedicus",
     "com.macro.banco.ar",
     "com.lemon.lvoverseas",
     "com.duolingo",
