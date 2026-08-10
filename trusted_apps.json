@@ -2,6 +2,7 @@
   "trusted_apps": [
     "com.google.android.gms",
     "steptracker.healthandfitness.walkingtracker.pedometer",
+    "ar.com.paretopago",
     "com.loungekey.mastercard.android",
     "ar.com.bna.digital",
     "com.bancosantafe.mobile",
