@@ -109,6 +109,27 @@
     "com.viber.voip",
     "com.yelp.android",
     "com.pinterest",
-    "com.reddit.frontpage"
+    "com.reddit.frontpage",
+    "org.thoughtcrime.securesms",
+    "com.discord",
+    "tv.twitch.android.app",
+    "com.uala.android",
+    "com.naranjax.app",
+    "ar.com.bancoprovincia.CuentaDNI",
+    "com.brubank",
+    "ar.com.personal.telecom.pay",
+    "com.pedidosya",
+    "com.grability.rappi",
+    "com.tranzmate",
+    "org.mozilla.firefox",
+    "com.microsoft.emmx",
+    "com.microsoft.office.outlook",
+    "com.microsoft.teams",
+    "us.zoom.videomeetings",
+    "com.Slack",
+    "com.wbd.stream",
+    "com.google.android.apps.youtube.music",
+    "com.tinder",
+    "com.truecaller"
   ]
 }
