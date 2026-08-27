@@ -1,6 +1,8 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "org.es_de.frontend",
+    "app.gamedeck",
     "steptracker.healthandfitness.walkingtracker.pedometer",
     "ar.com.paretopago",
     "com.loungekey.mastercard.android",
