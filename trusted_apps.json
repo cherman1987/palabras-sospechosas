@@ -2,6 +2,7 @@
   "trusted_apps": [
     "com.google.android.gms",
     "com.connect.enduser",
+    "com.ezviz",
     "org.es_de.frontend",
     "app.gamedeck",
     "steptracker.healthandfitness.walkingtracker.pedometer",
