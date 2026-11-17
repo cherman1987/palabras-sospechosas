@@ -1,6 +1,7 @@
 {
   "trusted_apps": [
     "com.google.android.gms",
+    "com.playdigital.modo",
     "com.connect.enduser",
     "com.ezviz",
     "org.es_de.frontend",
